@@ -333,7 +333,7 @@ a {
   width: 445px;
   height: 440px;
   flex-shrink: 0;
-  background: url(/assets/frame.png);
+  background: url(assets/frame.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
