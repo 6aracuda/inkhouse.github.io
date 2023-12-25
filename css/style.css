@@ -259,7 +259,7 @@ a {
   margin: 0 auto;
   max-width: 1440px;
   padding: 0px 165px 70px 165px;
-  background-image: url(assets/pic_background.png);
+  background-image: url(../assets/pic_background.png);
   background-color: black;
   background-repeat: no-repeat;
   background-size: cover;
@@ -333,7 +333,7 @@ a {
   width: 445px;
   height: 440px;
   flex-shrink: 0;
-  background: url(assets/frame.png);
+  background: url(../assets/frame.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
