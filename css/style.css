@@ -167,11 +167,6 @@ a {
   background-color: #376b44;
   color: white;
 }
-.btn-choose:hover {
-  background-color: #376b44;
-  color: white;
-  transition: 1s;
-}
 .country-buttons {
   display: flex;
   gap: 32px;
@@ -338,7 +333,7 @@ a {
   width: 445px;
   height: 440px;
   flex-shrink: 0;
-  background: url(/assets/frame.svg);
+  background: url(/assets/frame.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
